@@ -1,0 +1,90 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Top Flor",
+            "price": 1000,
+            "image": "./img/img1.top1.png",
+            "category": "top"
+        },
+        {
+            "id": 2,
+            "title": "Top Chaco",
+            "price": 1000,
+            "image": "./img/img2.top2.png",
+            "category": "top"
+        },
+        {
+            "id": 3,
+            "title": "Calza Larga",
+            "price": 4000,
+            "image": "./img/img3.calza3.png",
+            "category": "calza"
+        },
+        {
+            "id": 4,
+            "title": "Calza Ciclista",
+            "price": 3500,
+            "image": "./img/img4.calza4.png",
+            "category": "calza"
+        },
+        {
+            "id": 5,
+            "title": "Calza Short",
+            "price": 2500,
+            "image": "./img/img5.calza5.png",
+            "category": "calza"
+
+        },
+        {
+            "id": 6,
+            "title": "Calza Larga Estampada",
+            "price": 2000,
+            "image": "./img/img6.calza6.png",
+            "category": "calza"
+
+        },
+        {
+            "id": 7,
+            "title": "Top Lum Largo",
+            "price": 1000,
+            "image": "./img/img1.top1.png",
+            "category": "top"
+        },
+        {
+            "id": 8,
+            "title": "Top Batman",
+            "price": 1000,
+            "image": "./img/img8.top8.png",
+            "category": "top"
+        },
+        {
+            "id": 9,
+            "title": "Calza Short Negro",
+            "price": 2500,
+            "image": "./img/img10.png",
+            "category": "calza"
+        },
+        {
+            "id": 10,
+            "title": "Top",
+            "price": 2000,
+            "image": "./img/img8.top8.png",
+            "category": "top"
+        },
+        {
+            "id": 11,
+            "title": "Enterito mango",
+            "price": 1500,
+            "image": "./img/img9.body9.png",
+            "category": "enterito"
+        },
+        {
+            "id": 12,
+            "title": "Enterito Chaco",
+            "price": 2500,
+            "image": "./img/img7.png",
+            "category": "enterito"
+        }
+    ]
+}
